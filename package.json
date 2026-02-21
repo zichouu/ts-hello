@@ -4,12 +4,14 @@
   "type": "module",
   "description": "",
   "main": "index.ts",
-  "scripts": {
-  },
+  "scripts": {},
   "publishConfig": {
     "access": "public"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "5.9.3"
+  }
 }
